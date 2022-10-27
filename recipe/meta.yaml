@@ -34,6 +34,9 @@ about:
   license_family: GPL
   license_file: COPYING
   summary: 'Public client interface library for NIS(YP)'
+  doc_url: https://github.com/thkukuk/libnsl
+  dev_url: https://github.com/thkukuk/libnsl
+
 extra:
   recipe-maintainers:
     - izahn
